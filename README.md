@@ -16,8 +16,6 @@ Python 3.11 or later. Qiskit is needed only for Fig. 7.
 ## Run
 
 ```bash
-python fig1_system_model.py
-python fig2_encodings_bloch.py
 python fig3_accuracy_vs_features_per_encoding.py --channels 5 --workers 8
 python fig4_accuracy_vs_features_1000_shots.py   --channels 5 --workers 8
 python fig5_accuracy_vs_shots.py                 --channels 5 --workers 8
