@@ -1,0 +1,12 @@
+numpy>=2.0
+scipy>=1.13
+scikit-learn>=1.5
+matplotlib>=3.8
+jax==0.5.3
+jaxlib==0.5.3
+optax==0.2.8
+pennylane==0.45.1
+# Fig. 7 only
+qiskit==2.5.1
+qiskit-aer==0.17.2
+qiskit-ibm-runtime==0.48.0
